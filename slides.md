@@ -1,6 +1,7 @@
 ---
 theme: default
 title: Unified Student Portal — AI Course Recommendation Engine
+titleTemplate: '%s'
 favicon: '/fav-icon.svg'
 info: |
   ## Unified Student Portal with an AI-based Course Recommendation Engine
