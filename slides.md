@@ -33,7 +33,7 @@ recurring signature element on content slides. -->
   <div class="font-mono text-sm tracking-[0.25em] text-[#93A2C4] mt-6 uppercase">
     One login, six services, one recommendation engine
   </div>
-  <div class="flex items-center gap-3 my-8">
+  <div class="flex items-center gap-3 my-4">
     <div class="w-16 h-px bg-[#4DA3FF]/50"></div>
     <div class="w-1.5 h-1.5 rounded-full bg-[#4DA3FF]"></div>
     <div class="w-16 h-px bg-[#4DA3FF]/50"></div>
