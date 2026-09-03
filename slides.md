@@ -5,8 +5,8 @@ titleTemplate: '%s'
 favicon: '/fav-icon.svg'
 info: |
   ## Unified Student Portal with an AI-based Course Recommendation Engine
-  Research on a layered student portal architecture with a hybrid recommender.
-  Presentation for Research Methodology — Alireza Hassani Eghtedar
+  Design and development of a layered student portal architecture with a hybrid recommender.
+  Undergraduate Capstone Project Presentation — Alireza Hassani Eghtedar
 class: text-[#EAF0FA]
 colorSchema: dark
 background: 'radial-gradient(ellipse at 50% -10%, #131A3A 0%, #0A0E24 55%, #05070F 100%)'
@@ -26,7 +26,7 @@ every "system" being unified, joined by a single spine. It is the one
 recurring signature element on content slides. -->
 
 <div class="relative flex flex-col items-center justify-center h-full text-center px-20">
-  <div class="font-mono text-xs tracking-[0.45em] text-[#4DA3FF] mb-6">RESEARCH METHODOLOGY</div>
+  <div class="font-mono text-xs tracking-[0.45em] text-[#4DA3FF] mb-6">CAPSTONE PROJECT</div>
   <h1 class="font-serif font-700 uppercase text-5xl leading-[1.05] text-[#F3F6FC]" style="letter-spacing: 0.01em;">
     Unified Student Portal<br>+ AI Course Recommender
   </h1>
@@ -40,7 +40,7 @@ recurring signature element on content slides. -->
   </div>
   <div class="font-mono text-xs text-[#7C89AD] leading-relaxed">
     Alireza Hassani Eghtedar &nbsp;·&nbsp; Student ID 992023008<br>
-    Instructor: Dr. Kalarestaghi &nbsp;·&nbsp; Kharazmi University — Computer Engineering
+    Supervisor: Dr. Jalalian &nbsp;·&nbsp; Kharazmi University — Computer Engineering
   </div>
 </div>
 
@@ -678,7 +678,7 @@ class: text-center
     <div class="w-16 h-px bg-[#4DA3FF]/50"></div>
   </div>
   <div class="font-mono text-xs text-[#7C89AD]">
-    Alireza Hassani Eghtedar &nbsp;·&nbsp; Research Methodology &nbsp;·&nbsp; Kharazmi University
+        Alireza Hassani Eghtedar &nbsp;·&nbsp; Computer Engineering Capstone Project &nbsp;·&nbsp; Kharazmi University
   </div>
 </div>
 
